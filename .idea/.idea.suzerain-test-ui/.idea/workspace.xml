@@ -8,6 +8,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/QuestbookPartButton.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/codex/CodexGroup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/codex/CodexSectionTitle.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/codex/CodexSection.cs" root0="FORCE_HIGHLIGHTING" />
@@ -37,6 +38,8 @@
       <option value="$PROJECT_DIR$/Assets/scripts/codex/CodexGroupButton.cs" />
       <option value="$PROJECT_DIR$/Assets/scripts/codex/CodexItemButton.cs" />
       <option value="$PROJECT_DIR$/Assets/scripts/codex/CodexItemView.cs" />
+      <option value="$PROJECT_DIR$/Assets/SceneLoader.cs" />
+      <option value="$PROJECT_DIR$/Assets/QuestbookPartButton.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1sydgHm4zxbFlg2qvcg7x437188" />
