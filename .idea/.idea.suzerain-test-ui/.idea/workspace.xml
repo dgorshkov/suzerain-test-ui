@@ -7,9 +7,36 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/codex/CodexGroup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/codex/CodexSectionTitle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/codex/CodexSection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/codex/CodexGroupButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/codex/CodexItemsList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/codex/CodexSectionButton.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/scripts/JSONImport.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodexItemTitle.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodexItemDescription.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodexItemView.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodexItemButton.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodexItemPicture.cs" />
+      <option value="$PROJECT_DIR$/Assets/scripts/codex/CodexItemPicture.cs" />
+      <option value="$PROJECT_DIR$/Assets/scripts/codex/CodexItem.cs" />
+      <option value="$PROJECT_DIR$/Assets/scripts/codex/CodexItemDescription.cs" />
+      <option value="$PROJECT_DIR$/Assets/scripts/codex/CodexGroup.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodexGroupButton.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodexGroupList.cs" />
+      <option value="$PROJECT_DIR$/Assets/scripts/codex/CodexSection.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodexSectionSwitcher.cs" />
+      <option value="$PROJECT_DIR$/Assets/scripts/codex/CodexItemsList.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodexSectionTitle.cs" />
+      <option value="$PROJECT_DIR$/Assets/CodexSectionButton.cs" />
+      <option value="$PROJECT_DIR$/Assets/scripts/codex/CodexGroupButton.cs" />
+      <option value="$PROJECT_DIR$/Assets/scripts/codex/CodexItemButton.cs" />
+      <option value="$PROJECT_DIR$/Assets/scripts/codex/CodexItemView.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1sydgHm4zxbFlg2qvcg7x437188" />
