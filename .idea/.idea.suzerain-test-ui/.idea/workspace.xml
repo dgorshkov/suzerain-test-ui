@@ -37,9 +37,10 @@
       <option value="$PROJECT_DIR$/Assets/CodexSectionButton.cs" />
       <option value="$PROJECT_DIR$/Assets/scripts/codex/CodexGroupButton.cs" />
       <option value="$PROJECT_DIR$/Assets/scripts/codex/CodexItemButton.cs" />
-      <option value="$PROJECT_DIR$/Assets/scripts/codex/CodexItemView.cs" />
       <option value="$PROJECT_DIR$/Assets/SceneLoader.cs" />
       <option value="$PROJECT_DIR$/Assets/QuestbookPartButton.cs" />
+      <option value="$PROJECT_DIR$/Assets/scripts/codex/CodexItemTitle.cs" />
+      <option value="$PROJECT_DIR$/Assets/scripts/codex/CodexItemView.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1sydgHm4zxbFlg2qvcg7x437188" />

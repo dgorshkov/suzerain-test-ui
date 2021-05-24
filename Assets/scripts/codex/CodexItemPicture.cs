@@ -7,14 +7,10 @@ public class CodexItemPicture : MonoBehaviour
 {
 
     private Image image;
-    
-    void Start()
-    {
-        image = GetComponent<Image>();
-    }
 
     public void SetSprite(Sprite newSprite)
     {
+        image = GetComponent<Image>();
         image.sprite = newSprite;
     }
 

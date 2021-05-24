@@ -11,13 +11,10 @@ public class CodexItemDescription : MonoBehaviour
     
     private TextMeshProUGUI tmpro;
     
-    private void Start()
-    {
-        tmpro = GetComponent<TextMeshProUGUI>();
-    }
 
     public void SetText(string newText)
     {
+        tmpro = GetComponent<TextMeshProUGUI>();
         tmpro.text = newText;
     }
     

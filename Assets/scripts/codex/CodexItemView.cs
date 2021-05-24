@@ -22,16 +22,18 @@ public class CodexItemView : MonoBehaviour
     public void ShowItem(CodexItem item)
     {
         
+        //extract content
         string title = item.GetTitle();
         Sprite image = item.GetImage();
         string description = item.GetDescription();
 
+        //display content
+        UnhideContent();
         titleObj.SetText(title);
         pictureObj.SetSprite(image);
         descriptionObj.SetText(description);
         
-        UnhideContent();
-        
+
     }
 
     private void HideContent()
