@@ -1,5 +1,6 @@
 # Work summary
 
+* This is the Unity source code for the [Torpor programmer/QA assignment](./assignment.pdf)
 * I've timeboxed for this work 2 weekend days.
 * The planned scope was not completed fully and not to a high standard (see the TODO section below).
 * The biggest missing piece is the JSON data backend - I unfortunately couldn't implement it in a reasonable amount of time due to lack of previous experience. But I made it work using scriptable objects.
