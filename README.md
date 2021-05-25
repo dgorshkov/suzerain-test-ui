@@ -1,8 +1,8 @@
 # Work summary
 
 * This is the Unity source code for the [Torpor programmer/QA assignment](./assignment.pdf)
-* I've timeboxed for this work 2 weekend days.
-* The planned scope was not completed fully and not to a high standard (see the TODO section below).
+* I've timeboxed for this work 2 weekend days (unfortunately I didn't have 4 days available).
+* The planned scope was not completed fully and not to a great standard (see the TODO section below).
 * The biggest missing piece is the JSON data backend - I unfortunately couldn't implement it in a reasonable amount of time due to lack of previous experience. But I made it work using scriptable objects.
 * At the same time, these results can be used to evaluate my level of skill (I'm aiming for a junior programmer skillset).
 * The testcases for the full functionality are linked below. I have a lot more experience with QA compared to programming, so the cases are quite thorough.
