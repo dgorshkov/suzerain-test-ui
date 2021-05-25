@@ -24,9 +24,7 @@
       <option value="$PROJECT_DIR$/Assets/CodexItemView.cs" />
       <option value="$PROJECT_DIR$/Assets/CodexItemButton.cs" />
       <option value="$PROJECT_DIR$/Assets/CodexItemPicture.cs" />
-      <option value="$PROJECT_DIR$/Assets/scripts/codex/CodexItemPicture.cs" />
       <option value="$PROJECT_DIR$/Assets/scripts/codex/CodexItem.cs" />
-      <option value="$PROJECT_DIR$/Assets/scripts/codex/CodexItemDescription.cs" />
       <option value="$PROJECT_DIR$/Assets/scripts/codex/CodexGroup.cs" />
       <option value="$PROJECT_DIR$/Assets/CodexGroupButton.cs" />
       <option value="$PROJECT_DIR$/Assets/CodexGroupList.cs" />
@@ -39,8 +37,10 @@
       <option value="$PROJECT_DIR$/Assets/scripts/codex/CodexItemButton.cs" />
       <option value="$PROJECT_DIR$/Assets/SceneLoader.cs" />
       <option value="$PROJECT_DIR$/Assets/QuestbookPartButton.cs" />
-      <option value="$PROJECT_DIR$/Assets/scripts/codex/CodexItemTitle.cs" />
       <option value="$PROJECT_DIR$/Assets/scripts/codex/CodexItemView.cs" />
+      <option value="$PROJECT_DIR$/Assets/scripts/codex/CodexItemPicture.cs" />
+      <option value="$PROJECT_DIR$/Assets/scripts/codex/CodexItemDescription.cs" />
+      <option value="$PROJECT_DIR$/Assets/scripts/codex/CodexItemTitle.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1sydgHm4zxbFlg2qvcg7x437188" />
